@@ -476,12 +476,64 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   padding: 80px 0;
 }
+/*----TRANSFORMACION----*/
 
-#about .about-container {
-  background: url(../img/transformacion.jpg) left top no-repeat;
+#about .about-containerTD {
+  background: url(../img/TD1.jpg);
+  background-size: 50%;
 }
-#about .about-container2 {
-  background: url(../img/Maquinas-y-Herramientas.jpg) left no-repeat;
+#about .about-containerTD2 {
+  background: url(../img/IMG\ INICIO.jpg) left no-repeat;
+  background-size: 50%;
+}
+
+/*----SOPORTE----*/
+#about .about-containerSP {
+  background: url(../img/SP1.jpeg) left no-repeat;
+  background-size: 50%;
+}
+#about .about-containerSP2 {
+  background: url(../img/SP2.jpeg) left no-repeat;
+  background-size: 50%;
+}
+
+/*----diseño----*/
+#about .about-containerDD {
+  background: url(../img/DD1.jpg);
+  background-size: 50%;
+}
+#about .about-containerDD2 {
+  background: url(../img/DD2.jpeg) left no-repeat;
+  background-size: 50%;
+}
+
+/*----Logica----*/
+#about .about-containerLE {
+  background: url(../img/LE1.jpeg);
+  background-size: 50%;
+}
+#about .about-containerLE2 {
+  background: url(../img/LE2.jpeg) left no-repeat;
+  background-size: 50%;
+}
+
+/*----Maquinas----*/
+#about .about-containerMH {
+  background: url(../img/MH2.jpeg);
+  background-size: 50%;
+}
+#about .about-containerMH2 {
+  background: url(../img/MH3.jpeg) left no-repeat;
+  background-size: 50%;
+}
+
+/*----Electromecanica----*/
+#about .about-containerEM {
+  background: url(../img/EM1.jpeg) left no-repeat;
+  background-size: 60%;
+}
+#about .about-containerEM2 {
+  background: url(../img/EM2.jpeg) left no-repeat;
   background-size: 50%;
 }
 #about .about-content {
